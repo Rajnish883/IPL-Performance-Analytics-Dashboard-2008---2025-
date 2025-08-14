@@ -1,7 +1,7 @@
 # 🏏 IPL Performance Analytics Dashboard (2008–2025)
 
-![IPL Banner](<img width="1312" height="900" alt="image" src="https://github.com/user-attachments/assets/2a3e6ca8-8e53-4f16-a1fc-535e3c3bb92c" />
-)
+<img width="1312" height="900" alt="image" src="https://github.com/user-attachments/assets/2a3e6ca8-8e53-4f16-a1fc-535e3c3bb92c" />
+
 
 ## 📌 Project Overview
 The **IPL Performance Analytics Dashboard** is an interactive **Power BI** solution that visualizes 17+ seasons of **Indian Premier League** data (2008–2025).  
@@ -51,8 +51,8 @@ This project is designed for **fans, analysts, team management, and sponsors** t
 ---
 
 ## 📷 Dashboard Preview
-![IPL Dashboard Screenshot](<img width="1327" height="731" alt="image" src="https://github.com/user-attachments/assets/d8543c91-6478-4eac-b22d-cce8a3942c38" />
-)
+<img width="1327" height="731" alt="image" src="https://github.com/user-attachments/assets/d8543c91-6478-4eac-b22d-cce8a3942c38" />
+
 
 ---
 
