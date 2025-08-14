@@ -48,13 +48,6 @@ This project is designed for **fans, analysts, team management, and sponsors** t
 
 ---
 
-## 📷 Dashboard Preview
-<img width="1327" height="731" alt="image" src="https://github.com/user-attachments/assets/d8543c91-6478-4eac-b22d-cce8a3942c38" />
-
-
----
-
-
 ## 🔮 Future Enhancements
 - 📱 **Mobile-Optimized Dashboard** for on-the-go analytics.
 - 🔄 **Live Match Data Integration** for real-time stats.
@@ -67,6 +60,11 @@ This project is designed for **fans, analysts, team management, and sponsors** t
 **Rajnish Singh**  
 📧 Email: [Rajnish41099@gmail.com]  
 🔗 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rajnish-singh-1b0946214/))  
+
+---
+
+## 📷 Dashboard Preview
+<img width="1327" height="731" alt="image" src="https://github.com/user-attachments/assets/d8543c91-6478-4eac-b22d-cce8a3942c38" />
 
 ---
 
