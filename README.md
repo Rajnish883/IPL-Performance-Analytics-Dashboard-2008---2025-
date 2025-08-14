@@ -1,45 +1,77 @@
-🏏 IPL Performance Analytics Dashboard (2008–2025)
-📌 Project Overview
-This project is an interactive Power BI dashboard that provides season-wise IPL performance insights from 2008 to 2025. It allows users to explore team standings, player statistics, and tournament KPIs through dynamic visualizations and slicers. The dashboard is designed to be visually engaging, user-friendly, and data-driven, making it useful for fans, analysts, teams, and sponsors.
+# 🏏 IPL Performance Analytics Dashboard (2008–2025)
 
-🎯 Key Features
-Season Selector (2008–2025) – Instantly view stats for any IPL season
+![IPL Banner](<img width="1312" height="900" alt="image" src="https://github.com/user-attachments/assets/2a3e6ca8-8e53-4f16-a1fc-535e3c3bb92c" />
+)
 
-Champions & Runner-Up Display – With dynamic team logos and season results
+## 📌 Project Overview
+The **IPL Performance Analytics Dashboard** is an interactive **Power BI** solution that visualizes 17+ seasons of **Indian Premier League** data (2008–2025).  
+It enables **season-wise analysis** of team performance, player statistics, and tournament KPIs through dynamic slicers, automated calculations, and engaging visuals.  
 
-Player Stats – Orange Cap (Most Runs), Purple Cap (Most Wickets), most fours, and most sixes with player images
+This project is designed for **fans, analysts, team management, and sponsors** to explore IPL trends, identify top performers, and gain insights into the game.
 
-Core KPIs – Total sixes, fours, matches, teams, centuries, half-centuries, venues
+---
 
-Dynamic Points Table – Matches played, wins, losses, NR, ties, and automatic IPL points calculation
+## 🎯 Key Features
 
-Responsive Visuals – Conditional formatting and clean UI for better user experience
+### 📅 Season Analysis
+- **Season Selector** (2008–2025) – Instantly updates all visuals for the chosen season.
+- **Champions & Runner-Up Display** – With **dynamic team logos**.
 
-🛠️ Tech Stack
-Power BI – Dashboard design and data modeling
+### 🏆 Player Performance
+- **Orange Cap** (Most Runs) – Player name, total runs, team logo, player image.
+- **Purple Cap** (Most Wickets) – Player name, total wickets, team logo, player image.
+- **Most Fours & Sixes** – Season leaderboards with player photos.
 
-DAX – Custom calculations for points table & KPIs
+### 📊 Tournament KPIs
+- Total Sixes, Fours, Matches Played, Teams Participated.
+- Centuries & Half-Centuries count.
+- Venues used in the season.
 
-Power Query – Data cleaning and transformation
+### 📈 Dynamic Points Table
+- Matches Played, Wins, Losses, No Result, Ties.
+- **Automatic IPL Points Calculation**: (Wins × 2) + (Ties × 1) + (No Results × 1).
+- **Dynamic Team Logos** in table rows.
 
-Excel/CSV – Data source files
+---
 
-📊 Insights Delivered
-Team dominance patterns over 17+ seasons
+## 🛠️ Tech Stack
+- **Power BI** – Data visualization & dashboard creation.
+- **DAX** – Advanced KPI calculations and measures.
+- **Power Query** – Data cleaning and transformation.
+- **Excel/CSV** – Source data files.
 
-Top-performing players and their contributions
+---
 
-Venue-based performance trends
+## 📊 Insights Delivered
+- **Team Dominance Patterns** – Identify consistently top-performing teams.
+- **Top Player Contributions** – Measure player impact on team success.
+- **Venue Analysis** – Home advantage and performance by location.
+- **Historical Comparisons** – Track trends over 17+ IPL seasons.
 
-Historical tournament comparisons
+---
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
+![IPL Dashboard Screenshot](<img width="1327" height="731" alt="image" src="https://github.com/user-attachments/assets/d8543c91-6478-4eac-b22d-cce8a3942c38" />
+)
 
-📅 Project Timeline
-Data Coverage: 2008–2025
+---
 
-Completion Date: June 2025
 
-👨‍💻 Author
-Rajnish Singh – Data Analyst & Power BI Developer
+## 🔮 Future Enhancements
+- 📱 **Mobile-Optimized Dashboard** for on-the-go analytics.
+- 🔄 **Live Match Data Integration** for real-time stats.
+- 📊 **Predictive Analytics** using machine learning for performance forecasting.
+- 🌍 **Multi-League Support** for other T20 tournaments.
+
+---
+
+## 👨‍💻 Author
+**Rajnish Singh**  
+📧 Email: [Rajnish41099@gmail.com]  
+🔗 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rajnish-singh-1b0946214/))  
+
+---
+
+## 🔖 Tags
+`#PowerBI` `#Dashboard` `#DataAnalytics` `#SQL` `#PortfolioProject`
 
