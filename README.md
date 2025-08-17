@@ -65,6 +65,8 @@ This project is designed for **fans, analysts, team management, and sponsors** t
 
 ## 📷 Dashboard Preview
 <img width="1327" height="731" alt="image" src="https://github.com/user-attachments/assets/d8543c91-6478-4eac-b22d-cce8a3942c38" />
+<img <img width="1332" height="731" alt="Screenshot 2025-08-17 222248" src="https://github.com/user-attachments/assets/6de4bb3a-d4b7-4342-b40a-7fa72ac2d1bd" />
+All season(2008-2025) as follows :
 
 ---
 
